@@ -3355,7 +3355,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   z-index: 0;
 }
 
-.software_banner_area:before {
+/* .software_banner_area:before {
   content: "";
   position: absolute;
   height: 100%;
@@ -3364,7 +3364,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   top: 0;
   z-index: -1;
   background: url("../img/home5/shap_tecture.png") no-repeat scroll center 0/cover;
-}
+} */
 
 /*=============== saas banner area ================*/
 .saas_banner_area {
@@ -3388,13 +3388,13 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 /*============= app_banner_area css ===========*/
-.app_banner_area {
+/* .app_banner_area {
   background: url(../img/home7/banner.png) no-repeat scroll center 100%;
   padding-top: 230px;
   padding-bottom: 210px;
   overflow: hidden;
   background-size: cover;
-}
+} */
 
 .app_banner_area .app_img .app_screen {
   position: absolute;
@@ -7496,14 +7496,14 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 /*============ payment_service_area css ==============*/
-.payment_service_area {
+/* .payment_service_area {
   padding-top: 225px;
   padding-bottom: 150px;
   position: relative;
   z-index: 2;
   background: url("../img/home9/shape_two.png") no-repeat scroll center 0;
   background-size: cover;
-}
+} */
 
 .payment_service_area .image_shape {
   position: absolute;
@@ -7523,14 +7523,14 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   font-size: 18px;
 }
 
-.pay_icon {
+/* .pay_icon {
   background: url("../img/home9/icon_shape_two.png") no-repeat scroll center 0;
   width: 110px;
   height: 103px;
   text-align: center;
   line-height: 95px;
   margin-bottom: 34px;
-}
+} */
 
 .payment_service_item {
   padding-right: 80px;
@@ -7904,7 +7904,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   padding: 120px 0px 130px;
   overflow: hidden;
 }
-
+/* 
 .s_subscribe_area:before {
   content: "";
   width: 100%;
@@ -7914,7 +7914,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   top: 0;
   left: 0;
   z-index: -1;
-}
+} */
 
 .s_subscribe_area .mchimp-errmessage, .s_subscribe_area .mchimp-sucmessage {
   text-align: center;
@@ -8228,7 +8228,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   overflow: hidden;
 }
 
-.call_action_area:before {
+/* .call_action_area:before {
   content: "";
   width: 100%;
   height: 100%;
@@ -8236,7 +8236,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   left: 0;
   position: absolute;
   background: url("../img/home2/action_bg.png") no-repeat scroll center 0;
-}
+} */
 
 .call_action_area .action_one {
   left: -240px;
@@ -8410,7 +8410,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   z-index: -1;
 }
 
-.action_area_three .curved {
+/* .action_area_three .curved {
   position: absolute;
   width: 100%;
   height: 100px;
@@ -8419,7 +8419,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   background: url("../img/home4/action_shap.png") no-repeat scroll center top;
   top: 0;
   background-size: contain;
-}
+} */
 
 .action_area_three .action_content h2 {
   color: #fff;
@@ -9631,7 +9631,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   z-index: 1;
 }
 
-.feedback_area_two:before {
+/* .feedback_area_two:before {
   content: "";
   width: 100%;
   height: 100%;
@@ -9640,7 +9640,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   background: url("../img/new/feedback_shap.png") no-repeat scroll center 0;
   position: absolute;
   z-index: -1;
-}
+} */
 
 .feedback_area_two .sec_title {
   padding-left: 162px;
@@ -10246,7 +10246,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   z-index: 1;
 }
 
-.seo_fact_info:before {
+/* .seo_fact_info:before {
   content: "";
   background: url("../img/seo/shap.png") no-repeat scroll center center;
   position: absolute;
@@ -10255,7 +10255,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 100%;
   z-index: -1;
   top: 0;
-}
+} */
 
 .seo_fact_info .seo_fact_item {
   width: 200px;
@@ -12149,14 +12149,14 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   color: #fff;
 }
 
-.seo_subscribe_area .overlay_img {
+/* .seo_subscribe_area .overlay_img {
   background: url("../img/seo/cloud_bg.png") no-repeat scroll center 0/cover;
   position: absolute;
   top: 0;
   width: 100%;
   height: 100%;
   z-index: -1;
-}
+} */
 
 .seo_subscribe_area .cloud_img {
   position: absolute;
@@ -17080,7 +17080,7 @@ input[type="text"] {
   z-index: 1;
 }
 
-.map_bg {
+/* .map_bg {
   position: absolute;
   top: 0;
   left: 0;
@@ -17088,7 +17088,7 @@ input[type="text"] {
   height: 100%;
   background: url("../img/hosting/map.png") no-repeat scroll center 0/cover;
   z-index: -1;
-}
+} */
 
 .domain_box_info {
   max-width: 1030px;
@@ -17624,10 +17624,10 @@ a .h_head:hover {
   margin-bottom: 0;
 }
 
-.h_map {
+/* .h_map {
   background: url("../img/hosting/region_map.png") no-repeat scroll center top;
   height: 595px;
-}
+} */
 
 .h_map ul {
   height: 100%;
@@ -20883,10 +20883,10 @@ a .h_head:hover {
   padding-top: 120px;
 }
 
-.analytices_action_area_two:after {
+/* .analytices_action_area_two:after {
   background: url("../img/home-software/down_bg.png") no-repeat scroll;
   top: -70%;
-}
+} */
 
 /*============ analytices_list_area css ============*/
 /*====================================================*/
@@ -21617,7 +21617,7 @@ a .h_head:hover {
   position: relative;
 }
 
-.footer_nine_area .footer_shap {
+/* .footer_nine_area .footer_shap {
   position: absolute;
   background: url("../img/home9/footer.png") no-repeat scroll center;
   left: 0;
@@ -21625,7 +21625,7 @@ a .h_head:hover {
   background-size: cover;
   top: 0px;
   height: 100%;
-}
+} */
 
 .footer_nine_top {
   padding-bottom: 170px;
@@ -21747,13 +21747,13 @@ a .h_head:hover {
   left: -15px;
 }
 
-.footer_nine_bottom .flag_selector .flag-icon.flag-icon-us {
+/* .footer_nine_bottom .flag_selector .flag-icon.flag-icon-us {
   background-image: url(../img/home9/flag.png);
 }
 
 .footer_nine_bottom .flag_selector .flag-icon.flag-icon-mx {
   background-image: url(../img/home9/flag.png);
-}
+} */
 
 .footer_nine_bottom .flag_selector .dropdown-menu {
   padding: 0px;
@@ -21912,15 +21912,15 @@ a .h_head:hover {
   margin-left: 4px;
 }
 
-.new_footer_top .footer_bg {
+/* .new_footer_top .footer_bg {
   position: absolute;
   bottom: 0;
   background: url("../img/seo/footer_bg.png") no-repeat scroll center 0;
   width: 100%;
   height: 266px;
-}
+} */
 
-.new_footer_top .footer_bg .footer_bg_one {
+/* .new_footer_top .footer_bg .footer_bg_one {
   background: url("../img/seo/car.png") no-repeat center center;
   width: 70px;
   height: 50px;
@@ -21929,9 +21929,9 @@ a .h_head:hover {
   left: 30%;
   -webkit-animation: myfirst 22s  linear infinite;
   animation: myfirst 22s  linear infinite;
-}
+} */
 
-.new_footer_top .footer_bg .footer_bg_two {
+/* .new_footer_top .footer_bg .footer_bg_two {
   background: url("../img/seo/bike.png") no-repeat center center;
   width: 50px;
   height: 52px;
@@ -21940,7 +21940,7 @@ a .h_head:hover {
   position: absolute;
   -webkit-animation: myfirst 30s  linear infinite;
   animation: myfirst 30s  linear infinite;
-}
+} */
 
 @-moz-keyframes myfirst {
   0% {
@@ -22445,7 +22445,7 @@ a .h_head:hover {
   height: 560px;
   z-index: -1;
   left: 0;
-  background: url("../img/home-software/down_bg.png") no-repeat scroll;
+  /* background: url("../img/home-software/down_bg.png") no-repeat scroll; */
   bottom: 0;
   background-size: cover;
 }
@@ -22900,11 +22900,11 @@ a .h_head:hover {
   margin-bottom: 0;
   margin-top: 20px;
 }
-
+/* 
 .tracking_getting_area {
   text-align: center;
   background: url("../img/home-tracking/cta_pattern_bg.jpg") no-repeat scroll center 0/cover;
-}
+} */
 
 .tracking_getting_area h2 {
   font-weight: 700;
@@ -23578,7 +23578,7 @@ a .h_head:hover {
   margin-bottom: 30px;
 }
 
-.event_price_item:before {
+/* .event_price_item:before {
   content: "";
   background: url("../img/home-event/price_shap.png") no-repeat scroll center bottom;
   position: absolute;
@@ -23587,7 +23587,7 @@ a .h_head:hover {
   height: 22px;
   width: 100%;
   background-size: cover;
-}
+} */
 
 .event_price_item .p_head {
   border: 0px;
@@ -23660,9 +23660,9 @@ a .h_head:hover {
   background: #fdfaf6;
 }
 
-.event_fact_area .seo_fact_info:before {
+/* .event_fact_area .seo_fact_info:before {
   background: url("../img/home-event/dot.png") no-repeat center center;
-}
+} */
 
 .event_fact_area .seo_fact_info .seo_fact_item {
   margin-top: 0;
