@@ -50,11 +50,11 @@ class CustomNavbar extends Component {
                                         <li className="nav-item"><NavLink exact title="Process" className="nav-link" to='/Process'>EMPLOYEE INSIGHTS</NavLink></li>
                                     </ul>
                                 </li>
-                                <li className="dropdown submenu nav-item"><Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="#">WHY US ?</Link>
+                                <li className="nav-item"><Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="/Process">WHY US ?</Link>
                                 </li>
-                                <li className="dropdown submenu nav-item"><Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="#">RESOURCES</Link>
+                                <li className="nav-item"><Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="#">RESOURCES</Link>
                                 </li>
-                                <li className="dropdown submenu nav-item"><Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="#">BLOG</Link>
+                                <li className="nav-item"><Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="#">BLOG</Link>
                                 </li>
                                 <li className="nav-item"><NavLink title="Pricing" className="nav-link" to="/#">CONTACT US</NavLink></li>
                             </ul>

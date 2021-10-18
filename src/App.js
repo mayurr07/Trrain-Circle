@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch } from "react-router-dom";
 /*------ Pages-----*/
 
 
-import homechat from "./Pages/Home-chat";
+import HomeChat from "./Pages/Home-chat";
 import NotFound from "./Pages/404";
 import About from "./Pages/About";
 import Process from "./Pages/Process";
@@ -17,10 +17,10 @@ class App extends Component {
     return (
       <Router>
         <Switch>
-          <ScrollToTopRoute exact={true} path={"/"} component={homechat} />
-          <ScrollToTopRoute component={NotFound} />
+          <ScrollToTopRoute exact={true} path={"/"} component={HomeChat} />
           <ScrollToTopRoute path="/About" component={About} />
           <ScrollToTopRoute path="/Process" component={Process} />
+          <ScrollToTopRoute component={NotFound} />
         </Switch>
       </Router>
     );

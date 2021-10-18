@@ -7,7 +7,8 @@ import FooterData from '../components/Footer/FooterData';
 const Process = () => {
     return(
         <div className="body_wrapper">
-            <CustomNavbar slogo="sticky_logo" mClass="menu_four" nClass="w_menu ml-auto mr-auto"/>
+            <CustomNavbar nClass="m-auto"
+        hbtnClass="new_btn"/>
             <section className="process_area bg_color sec_pad">
                 <div className="container">
                     <div className="features_info">
