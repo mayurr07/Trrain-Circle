@@ -14,7 +14,7 @@ const CoreFeatures = () => {
           <div className="col-lg-4 col-md-6">
             <div className="chat_features_item wow fadeInUp">
               <div className="round">
-                <div className="round_circle"></div>
+                <div className=""></div>
                 <img
                   className="top_img p_absoulte"
                   src={require("../../img/home-chat/pluse.png")}
@@ -28,12 +28,13 @@ const CoreFeatures = () => {
               <p>
               How can we help the employee maintain maintaining physical, mental and financial wellbeing.
               </p>
+              <a href=".#" className="btn_six slider_btn">Read More</a>
             </div>
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="chat_features_item wow fadeInUp" data-wow-delay="0.2s">
               <div className="round">
-                <div className="round_circle two"></div>
+                <div className=""></div>
                 <img
                   className="top_img p_absoulte"
                   src={require("../../img/home-chat/triangle.png")}
@@ -47,12 +48,13 @@ const CoreFeatures = () => {
               <p>
               How can we help the employee maintain maintaining physical, mental and financial wellbeing.
               </p>
+              <a href=".#" className="btn_six slider_btn">Read More</a>
             </div>
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="chat_features_item wow fadeInUp" data-wow-delay="0.4s">
               <div className="round">
-                <div className="round_circle three"></div>
+                <div className=""></div>
                 <img
                   className="top_img p_absoulte"
                   src={require("../../img/home-chat/box.png")}
@@ -66,6 +68,7 @@ const CoreFeatures = () => {
               <p>
               How can we help the employee maintain maintaining physical, mental and financial wellbeing.
               </p>
+              <a href=".#" className="btn_six slider_btn">Read More</a>
             </div>
           </div>
         </div>

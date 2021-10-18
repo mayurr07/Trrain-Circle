@@ -37,7 +37,7 @@ const settings = {
 };
 const ScreenshowCase =()=>{
     return(
-        <section  className="app_screenshot_area sec_pad" id="showcase">
+        <section  className="app_screenshot_area sec_pad_app" id="showcase">
             <div  className="container custom_container p0">
                 <Sectitle sClass="sec_title text-center mb_70" Title="Trrain Circle Technologies" tClass="t_color3 mb_20" TitleP="Its features are built to aid the use cases and operations of all departments in an organization"/>
                 <div  className="app_screen_info">

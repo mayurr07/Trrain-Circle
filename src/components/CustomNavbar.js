@@ -38,16 +38,16 @@ class CustomNavbar extends Component {
                                 <li className="dropdown submenu nav-item">
                                     <Link to="./" title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT US</Link>
                                     <ul role="menu" className=" dropdown-menu">
-                                        <li className="nav-item"><NavLink exact title="Service" className="nav-link" to='/#'>WHO ARE WE ?</NavLink></li>
-                                        <li className="nav-item"><NavLink exact title="Service Details" className="nav-link" to='/#'>OUR TEAM</NavLink></li>
+                                        <li className="nav-item"><NavLink exact title="About" className="nav-link" to='/About'>WHO ARE WE ?</NavLink></li>
+                                        <li className="nav-item"><NavLink exact title="About" className="nav-link" to='/About'>OUR TEAM</NavLink></li>
                                     </ul>
                                 </li>
                                 <li className="dropdown submenu nav-item">
                                     <Link to="./" title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SOLUTIONS</Link>
                                     <ul role="menu" className=" dropdown-menu">
-                                        <li className="nav-item"><NavLink exact title="About" className="nav-link" to='/#'>EMPLOYEE WELLBEING</NavLink></li>
-                                        <li className="nav-item"><NavLink exact title="Process" className="nav-link" to='/#'>EMPLOYEE ENGAGEMENT</NavLink></li>
-                                        <li className="nav-item"><NavLink exact title="Team" className="nav-link" to='/#'>EMPLOYEE INSIGHTS</NavLink></li>
+                                        <li className="nav-item"><NavLink exact title="Process" className="nav-link" to='/Process'>EMPLOYEE WELLBEING</NavLink></li>
+                                        <li className="nav-item"><NavLink exact title="Process" className="nav-link" to='/Process'>EMPLOYEE ENGAGEMENT</NavLink></li>
+                                        <li className="nav-item"><NavLink exact title="Process" className="nav-link" to='/Process'>EMPLOYEE INSIGHTS</NavLink></li>
                                     </ul>
                                 </li>
                                 <li className="dropdown submenu nav-item"><Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="#">WHY US ?</Link>
