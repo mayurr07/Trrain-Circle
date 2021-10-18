@@ -8786,9 +8786,9 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   width: 8px;
   height: 8px;
   display: block;
-  background: #9c7bfb;
+  background: #9C1006;
   border-radius: 50%;
-  border: 1px solid #9c7bfb;
+  border: 1px solid #9C1006;
   padding: 0px;
   margin: 0px;
   -webkit-transition: all 0.3s linear;
@@ -9597,10 +9597,10 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #3d3e65;
+  background: #9C1006;
   margin: 0px 5px;
   padding: 4px;
-  border: 1px solid #3d3e65;
+  border: 1px solid #9C1006;
   display: block;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
@@ -10382,7 +10382,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .app_screenshot_area .app_screenshot_slider .slick-dots li.slick-active button{
-  background: #653cee;
+  background: #9C1006;
 }
 
 .app_screenshot_area .app_screenshot_slider .owl-prev, .app_screenshot_area .app_screenshot_slider .owl-next {
@@ -24103,7 +24103,7 @@ a .h_head:hover {
 }
 
 .chat_btn {
-  background: #6754e2;
+  background: #9C1006;
   color: #fff;
   padding: 9px 95px;
   border-radius: 4px;

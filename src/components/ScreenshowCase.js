@@ -39,7 +39,7 @@ const ScreenshowCase =()=>{
     return(
         <section  className="app_screenshot_area sec_pad" id="showcase">
             <div  className="container custom_container p0">
-                <Sectitle sClass="sec_title text-center mb_70" Title="Awesome app Screenshots" tClass="t_color3 mb_20" TitleP="Why I say old chap that is spiffing barney, nancy boy bleeder chimney pot richard cheers the little rotter.!"/>
+                <Sectitle sClass="sec_title text-center mb_70" Title="Trrain Circle Technologies" tClass="t_color3 mb_20" TitleP="Its features are built to aid the use cases and operations of all departments in an organization"/>
                 <div  className="app_screen_info">
                     <Slider  className="app_screenshot_slider" {...settings}>
                         <div  className="item">
