@@ -10,8 +10,11 @@ import ScreenshowCase from "../components/ScreenshowCase";
 import HostingBlog from "../components/Blog/HostingBlog";
 import FaqSection from "../components/FaqSection";
 import AppFeatures from "../components/Features/AppFeatures";
-import AppWork from "../components/Service/AppWork";
-import ServiceData from "../components/Service/ServiceData";
+import HostingFeatures from "../components/Service/HostingFeatures"
+import HostingFeaturesTwo from "../components/Service/HostingFeaturesTwo"
+import Testimonial from "../components/Testimonials/Testimonial"
+import ErpActionTwo from "../components/ErpActionTwo";
+import AgencyAction from "../components/AgencyAction";
 
 
 const homechat = () => {
@@ -24,12 +27,15 @@ const homechat = () => {
       <ChatBanner />
       <CoreFeatures/>
       <AppFeatures/>
-      <AppWork ServiceData={ServiceData}/>
+      <HostingFeatures/>
+      <HostingFeaturesTwo/>
       <ChatIntegration/>
       <ScreenshowCase/> 
       <HostingBlog/>
+      <Testimonial tClass="testimonial_area_four sec_pad" FooterData={FooterData}/>
       <FaqSection/>
-      <ChatClients/>
+      {/* <ChatClients/> */}
+      <AgencyAction/>
       <FooterSecurity FooterData={FooterData}/>
     </div>
   );

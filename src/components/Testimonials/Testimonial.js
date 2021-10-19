@@ -35,8 +35,8 @@ class Testimonial extends Component {
                             <div className="testimonial_title">
                                 <Fade bottom cascade>
                                     <div className="seo_sec_title wow fadeInUp" data-wow-delay="0.3s">
-                                        <h2>Check testimonials for<br/> our satisfied clients</h2>
-                                        <p>That ummm I'm telling Why say bleeder smashing lemon squeezy tosser, cheesed off dropped.!</p>
+                                        <h2>Why Companies Choose TRRAIN Circle</h2>
+                                        <p>Its features are built to aid the use cases and operations of all departments in an organization</p>
                                     </div>
                                 </Fade>
                                 <div className="slider_nav">

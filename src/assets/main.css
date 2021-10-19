@@ -10168,7 +10168,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 
 .stratup_testimonial_info:before {
   content: "";
-  background: url("../img/new/testimonial_bg.png") no-repeat scroll center 0/contain;
+  background: url("../img/home7/testimonial_bg.png") no-repeat scroll center 0/contain;
   width: 100%;
   height: 100%;
   top: 0;
@@ -17355,7 +17355,9 @@ a .h_head:hover {
 
 /*========== hosting_features_area css ========*/
 .hosting_features_area {
-  padding-bottom: 140px;
+  padding-bottom: 20px;
+  padding-top: 130px;
+  padding-left: 40px;
 }
 
 .h_features_content {
