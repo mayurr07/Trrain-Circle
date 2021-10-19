@@ -6,10 +6,11 @@ import FooterSecurity from '../components/Footer/FooterSecurity';
 import AppWork from '../components/Service/AppWork';
 import ErpFeatures from '../components/Features/ErpFeatures';
 
+
 const About = () => {
     return(
-        <div className="body_wrapper">
-            <CustomNavbar slogo="sticky_logo" mClass="menu_four" nClass="w_menu ml-auto mr-auto"/>
+        <div className="body_wrapper">         
+            <CustomNavbar nClass="m-auto" hbtnClass="new_btn"/>
             <ErpFeatures/>
             <AppWork ServiceData={ServiceData}/>
             <FooterSecurity FooterData={FooterData}/>

@@ -2071,7 +2071,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .header_area_three.navbar_fixed .menu_four .btn_get {
-  border-color: #5e2ced !important;
+  border-color: #9C1006 !important;
 }
 
 .header_area_four .header_top {
@@ -5441,11 +5441,11 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 46px;
   line-height: 46px;
   border-radius: 50%;
-  background-image: -moz-linear-gradient(40deg, #5e2ced 0%, #a485fd 100%);
-  background-image: -webkit-linear-gradient(40deg, #5e2ced 0%, #a485fd 100%);
-  background-image: -ms-linear-gradient(40deg, #5e2ced 0%, #a485fd 100%);
-  background-image: linear-gradient(40deg, #5e2ced 0%, #a485fd 100%);
-  -webkit-box-shadow: 0px 10px 20px 0px rgba(94, 44, 237, 0.2);
+  background-image: -moz-linear-gradient(40deg, #9C1006 0%, #740006 100%);
+  background-image: -webkit-linear-gradient(40deg, #9C1006 0%, #740006 100%);
+  background-image: -ms-linear-gradient(40deg, #9C1006 0%, #740006 100%);
+  background-image: linear-gradient(40deg, #9C1006 0%, #740006 100%);
+  -webkit-box-shadow: 0px 10px 20px 0px rgba(2, 1, 2, 0.2);
   box-shadow: 0px 10px 20px 0px rgba(94, 44, 237, 0.2);
   font-size: 20px;
   color: #fff;
@@ -18423,15 +18423,15 @@ a .h_head:hover {
 }
 
 .erp_features_img_two .img_icon.red .pluse_1, .erp_features_img_two .img_icon.red .pluse_2 {
-  background: rgba(249, 62, 94, 0.102);
+  background: rgba(138, 9, 30, 0.102);
 }
 
 .erp_features_img_two .img_icon.red .pluse_1:before, .erp_features_img_two .img_icon.red .pluse_1:after, .erp_features_img_two .img_icon.red .pluse_2:before, .erp_features_img_two .img_icon.red .pluse_2:after {
-  background: rgba(249, 62, 94, 0.13);
+  background: rgba(138, 12, 33, 0.13);
 }
 
 .erp_features_img_two .img_icon.red .pluse_1:after, .erp_features_img_two .img_icon.red .pluse_2:after {
-  background: #f93e5e;
+  background: #9C1006;
 }
 
 .erp_features_img_two .img_icon.green .pluse_1, .erp_features_img_two .img_icon.green .pluse_2 {
