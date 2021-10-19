@@ -4,6 +4,8 @@ import Featuresitems from '../components/Features/Featuresitems';
 import FooterSecurity from '../components/Footer/FooterSecurity';
 import FooterData from '../components/Footer/FooterData';
 import Sectitle from '../components/Title/Sectitle';
+import AgencyAction from '../components/AgencyAction';
+import HostingBlog from '../components/Blog/HostingBlog';
 
 const Process_Insights = () => {
     return(
@@ -12,7 +14,8 @@ const Process_Insights = () => {
         hbtnClass="new_btn"/>
             <section className="process_area bg_color sec_pad">
                 <div className="container">
-                <Sectitle sClass="sec_title text-center mb_70" Title="How We Work" tClass="t_color3" TitleP="Bender cobblers chap grub sloshed up the duff I fantastic owt to do with me at public school.!"/>
+                <Sectitle sClass="sec_title text-center mb_70" Title="Employee Insights" tClass="t_color3" TitleP="Highly satisfied and happy employees are more productive and stay longer. The simplest way to track employee satisfaction is to regularly understand the pulse of your employees using different forms of feedback mechanisms
+"/>
                     <div className="features_info">
                         <img className="dot_img" src={require ('../img/home7/divider.png')} alt=""/>
                         <Featuresitems rowClass="row flex-row-reverse" aClass="pr_70 pl_70" fimage="process_1.png" iImg="icon01.png" ftitle="With efficiency to unlock more opportunities" descriptions="Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!"/>
@@ -25,6 +28,8 @@ const Process_Insights = () => {
                     </div>
                 </div>
             </section>
+            <HostingBlog/>
+            <AgencyAction/>
             <FooterSecurity FooterData={FooterData}/>
         </div>
     )

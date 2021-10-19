@@ -28,7 +28,7 @@ const CoreFeatures = () => {
               <p>
               How can we help the employee maintain maintaining physical, mental and financial wellbeing.
               </p>
-              <a href=".#" className="btn_six slider_btn">Read More</a>
+              <a href=".#" className="btn_six slider_btn">Learn More</a>
             </div>
           </div>
           <div className="col-lg-4 col-md-6">
@@ -43,12 +43,12 @@ const CoreFeatures = () => {
                 <img src={require('../../img/home-chat/mobile.png')} alt="" />
               </div>
               <a href=".#">
-                <h4>WELL BEING</h4>
+                <h4>ENGAGEMENT</h4>
               </a>
               <p>
-              How can we help the employee maintain maintaining physical, mental and financial wellbeing.
+              How can we help the employer to engage better with their employees in their firm.
               </p>
-              <a href=".#" className="btn_six slider_btn">Read More</a>
+              <a href=".#" className="btn_six slider_btn">Learn More</a>
             </div>
           </div>
           <div className="col-lg-4 col-md-6">
@@ -63,12 +63,12 @@ const CoreFeatures = () => {
                 <img src={require('../../img/home-chat/book.png')} alt="" />
               </div>
               <a href=".#">
-                <h4>WELL BEING</h4>
+                <h4>INSIGHTS</h4>
               </a>
               <p>
-              How can we help the employee maintain maintaining physical, mental and financial wellbeing.
+              How can we help the employer learn more about their employee to enhance their employee experience.
               </p>
-              <a href=".#" className="btn_six slider_btn">Read More</a>
+              <a href=".#" className="btn_six slider_btn">Learn More</a>
             </div>
           </div>
         </div>

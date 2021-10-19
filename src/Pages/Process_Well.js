@@ -12,7 +12,7 @@ const Process_Well = () => {
         hbtnClass="new_btn"/>
             <section className="process_area bg_color sec_pad">
                 <div className="container">
-                <Sectitle sClass="sec_title text-center mb_70" Title="How We Work" tClass="t_color3" TitleP="Bender cobblers chap grub sloshed up the duff I fantastic owt to do with me at public school.!"/>
+                <Sectitle sClass="sec_title text-center mb_70" Title="Employee Engagement" tClass="t_color3" TitleP="Engaged employees are the key to a successful business; a highly engaged workforce has been shown to boost retention, productivity and profitability rates, among others."/>
                     <div className="features_info">
                         <img className="dot_img" src={require ('../img/home7/divider.png')} alt=""/>
                         <Featuresitems rowClass="row flex-row-reverse" aClass="pr_70 pl_70" fimage="process_1.png" iImg="icon01.png" ftitle="With efficiency to unlock more opportunities" descriptions="Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!"/>
