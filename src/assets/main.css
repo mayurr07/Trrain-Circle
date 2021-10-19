@@ -5460,6 +5460,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 /*=============== software_featured_area css ===============*/
 .software_featured_area {
   padding-top: 120px;
+  padding-bottom: 90px;
 }
 
 .software_featured_item .s_icon {

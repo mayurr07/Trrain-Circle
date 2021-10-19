@@ -7,6 +7,7 @@ import DeveloperTab from '../components/DeveloperTab';
 import Sectitle from '../components/Title/Sectitle';
 import CloudService from "../components/Service/CloudService"
 import EventFact from '../components/EventFact';
+import AgencyAction from '../components/AgencyAction';
 
 const Why_Us = () => {
     return(
@@ -28,6 +29,7 @@ const Why_Us = () => {
                 <DeveloperTab/>
                 <CloudService/>
                 <EventFact/>
+                <AgencyAction/>
             </section>
             <FooterSecurity FooterData={FooterData}/>
         </div>
